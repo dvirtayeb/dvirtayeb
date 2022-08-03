@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dvirtayeb, Working as Full Stack Engineer at Lava Protocol.
+- 👋 Hi, I’m @dvirtayeb, Working as Full Stack Engineer at Lava.
 - 🌱Software Engineering Student, Four Year, specialization in AI.  
 - 📫 you can reach me at dvir0120@gmail.com
 
