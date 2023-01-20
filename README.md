@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dvirtayeb, Working as Full Stack Engineer at Lava.
+- 👋 Hi, I’m @dvirtayeb, Working as Full Stack Engineer at Lava Network.
 - 🌱Software Engineering Student, Four Year, specialization in AI.  
 
 <!---
